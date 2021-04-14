@@ -2,7 +2,6 @@
 
 ### [Live Site](https://realtime-chat-application.netlify.com)
 
-![Chat Application](https://i.ytimg.com/vi/ZwFA3YMfkoc/maxresdefault.jpg)
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
